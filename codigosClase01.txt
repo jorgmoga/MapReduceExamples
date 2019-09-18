@@ -1,0 +1,22 @@
+Comandos:
+vagrant up
+vagrant ssh
+cd /vagrant
+sudo docker pull jdvelasq/pig:2019-2
+sudo docker run -ti -p 8888:8888 -p 50070:50070 -p 8088:8088 -p 9000:9000 -v "$PWD":/app --rm jdvelasq/pig:2019-2
+
+
+Posibles problemas:
+	vagrant plugin install vagrant-disksize
+
+
+Para la clase:
+	https://colab.research.google.com
+
+
+manual, no instalar este vagrant: Manual de instalación de herramientas: https://github.com/jdvelasq/vagrant-setup
+
+vagrant a instalar: https://github.com/jdvelasq/vagrant4docker
+
+
+
