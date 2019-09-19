@@ -1,3 +1,25 @@
+Horario: Miércoles  4:00 pm a 7:30 pm
+		Descanso: 5:30 pm a 5:45 pm
+		Dudas adicionales 7:30 pm a 7:45 pm ** depende del desarrollo de la clase
+
+Página del curso:
+	https://jdvelasq.github.io/courses/analitica-de-grandes-datos/index.html
+	* En proceso de actualización
+
+Grupo Slack: AnaliticaGVD Unalmed				
+	 https://analiticagvdunalmed.slack.com
+	
+Inscribirse, link directo:
+https://join.slack.com/t/analiticagvdunalmed/shared_invite/enQtNzU4MDIwMTg0MzIxLWY4YTQzZWNiMmIzNTJmZmQ5YzU1N2I5Yjc5NjIxODU1N2E0MjdjNTgwYjk5YTk1NWQ2NGJmZDJlZjM4ZGRlYTA
+	Compartir dudas, temas relacionados con el curso… 
+	Cualquiera puede preguntar y responder
+	Se intentará revisar al menos una vez al día (no es obligación)
+
+Email: amartin@unal.edu.co con el asunto [AGVDUnalmed] <Asunto>
+	* si no tiene el [AGVDUnalmed] no se revisará para este curso
+		
+	
+	
 Comandos:
 vagrant up
 vagrant ssh
@@ -12,11 +34,14 @@ Posibles problemas:
 
 Para la clase:
 	https://colab.research.google.com
-
+	
 
 manual, no instalar este vagrant: Manual de instalación de herramientas: https://github.com/jdvelasq/vagrant-setup
 
 vagrant a instalar: https://github.com/jdvelasq/vagrant4docker
 
 
+ejemplo de clase de palabras:
+
+https://jdvelasq.github.io/courses/notebooks/hadoop/1-01-intro-mapreduce.html
 
