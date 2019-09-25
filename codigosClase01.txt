@@ -45,3 +45,23 @@ ejemplo de clase de palabras:
 
 https://jdvelasq.github.io/courses/notebooks/hadoop/1-01-intro-mapreduce.html
 
+
+
+****************************************************************************************
+Clase # 2
+
+
+Vagrant a descargar: https://github.com/jdvelasq/vagrant4docker
+ir a la carpeta
+vagrant up
+vagrant ssh
+cd /vagrant
+
+----- Como configurar tu docker: 
+sudo docker compose -f pig.yml up
+
+
+
+
+
+
