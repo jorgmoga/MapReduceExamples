@@ -60,6 +60,10 @@ cd /vagrant
 ----- Como configurar tu docker: 
 sudo docker compose -f pig.yml up
 
+----- otra opción
+
+sudo docker-compose --file jupyterlab.yml  up
+
 
 
 
